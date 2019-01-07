@@ -47,7 +47,7 @@ Next applicant chosen by SPLA: Applicant ID (5 digits)
 00003M040NNYY1000110<br>
 00004M033NNYY1000000<br>
 00005F020NNYY1000110<br>
-<b>Output.txt</b>
+<b>Output.txt</b><br>
 00001
 <br><br>
 <b>Explanation</b><br>
